@@ -1,5 +1,8 @@
 html>
     <body>
+    <head>
+    <link href="qwertyg.css" rel = "stylesheet>
+    </head>
         <header>
             <a href="#shedule">Расписание</a> <a href="#lessons">О занятиях</a> <a href="#photos">Фотографии</a>
         </header>
